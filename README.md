@@ -4,3 +4,5 @@ médio no Sesi integrado á curso tecnico de Desenvolvimentos de Sistemas do sen
 
 # Programação
 Sou um programador iniciante, e *Python* é minha linguagem de programação preferida.
+
+<img align='right' scr='flor_programando.png' width='200'>
