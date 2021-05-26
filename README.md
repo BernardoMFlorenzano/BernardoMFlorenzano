@@ -6,4 +6,4 @@ médio no Sesi integrado á curso tecnico de Desenvolvimentos de Sistemas do sen
 Sou um programador iniciante, e *Python* é minha linguagem de programação preferida.
 
 ![Flor programando](flor_programando.png)
-Já posso vender minha arte na praia
+(Já posso vender minha arte na praia)
