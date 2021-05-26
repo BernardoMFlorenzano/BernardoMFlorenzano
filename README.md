@@ -5,4 +5,4 @@ médio no Sesi integrado á curso tecnico de Desenvolvimentos de Sistemas do sen
 # Programação
 Sou um programador iniciante, e *Python* é minha linguagem de programação preferida.
 
-![Flor programando](C:\Users\bevel\PycharmProjects\pythonProject\fonte\flor_programando.png)
+![](flor_programando.png)
