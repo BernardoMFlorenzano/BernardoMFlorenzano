@@ -1,5 +1,5 @@
 # Bernardo Florenzano Profile
-Meu nome é **Bernardo**, tenho *19 anos* e atualmente moro em Itájuba-MG, apesar de voltar regularmente para minha cidade natal Resende-RJ. 
+Meu nome é **Bernardo**, tenho *20 anos* e atualmente moro em Itájuba-MG, apesar de voltar regularmente para minha cidade natal Resende-RJ. 
 
 # Ensino
 Possuo Ensino Médio completo (SESI) integrado a curso Técnico de Desenvolvimento De Sistemas (SENAI). Atualmente estou desempenhando o curso de Ciências da Computação na UNIFEI.
